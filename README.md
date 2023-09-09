@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslam Khan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0zMm2wy0D1x-pPKVmfuU97&ust=1694374201166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJC4kPqhnoEDFQAAAAAdAAAAABAR"  alt="image" align="right" width="400px">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="image" align="right" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam56&label=Profile%20views&color=0e75b6&style=flat" alt="aslam56" /> </p>
 
